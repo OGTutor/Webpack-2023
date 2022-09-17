@@ -1,7 +1,7 @@
 {
 	"name": "webpack",
 	"version": "1.0.0",
-	"description": "Webpack course",
+	"description": "Webpack-2022",
 	"private": true,
 	"scripts": {
 		"dev": "cross-env NODE_ENV=development webpack --mode development",
@@ -13,7 +13,7 @@
 	"keywords": [
 		"js, JavaScript, Webpack"
 	],
-	"author": "OGTutor <og@gmai.com>",
+	"author": "OGTutor <game.gt.tutor@gmail.com>",
 	"license": "ISC",
 	"devDependencies": {
 		"@babel/core": "^7.19.0",
